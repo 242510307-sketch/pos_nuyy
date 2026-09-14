@@ -80,7 +80,7 @@
         <div class="mb-2">
             <i class="fa-solid fa-store fa-bounce" style="color: #4facfe; font-size: 2.5rem;"></i>
         </div>
-        NuyMart ✨
+        FruitsMart ✨
         <p class="text-muted fs-6 fw-normal mt-1" style="font-size: 0.85rem !important;">Selamat datang kembali! 👋</p>
     </div>
 

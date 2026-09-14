@@ -116,7 +116,7 @@
 
     <section id="struk" class="receipt">
         <header class="receipt-header">
-            <h1>NuyMart</h1>
+            <h1>FruitsMart</h1>
             <p>Struk Pembayaran</p>
         </header>
 

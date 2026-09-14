@@ -18,6 +18,7 @@ class DatabaseSeeder extends Seeder
             UserSeeder::class,
             ProdukSeeder::class,
             PenjualanSeeder::class,
+            PerusahaanSeeder::class,
             ]);
         // User::factory(10)->create();
 

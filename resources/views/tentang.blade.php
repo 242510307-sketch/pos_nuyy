@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Tentang NuyMart')
+@section('title', 'Tentang FruitsMart')
 
 @section('content')
 <style>
@@ -71,7 +71,7 @@
 <main class="about-page">
     <header class="about-heading">
         <h1>Tentang Saya</h1>
-        <p>Profil pengguna aplikasi NuyMart</p>
+        <p>Profil pengguna aplikasi FruitsMart</p>
     </header>
 
     <div class="row g-3 align-items-stretch">
@@ -82,8 +82,8 @@
                 </div>
                 <h2>Nurul Kayla Ramadhani</h2>
                 <p class="profile-role"><i class="bi bi-code-slash me-1"></i>Web Developer</p>
-                <span class="profile-badge"><i class="bi bi-person-badge me-1"></i>Pengembang NuyMart</span>
-                <p class="profile-note">Selamat datang di halaman profil aplikasi NuyMart. Kelola kebutuhan toko dan transaksi penjualan dengan lebih mudah.</p>
+                <span class="profile-badge"><i class="bi bi-person-badge me-1"></i>Pengembang FruitsMart</span>
+                <p class="profile-note">Selamat datang di halaman profil aplikasi FruitsMart. Kelola kebutuhan toko dan transaksi penjualan dengan lebih mudah.</p>
             </section>
         </div>
 
@@ -113,7 +113,7 @@
 
     <section class="about-panel application-panel">
         <h2 class="panel-title"><i class="bi bi-info-circle"></i>Tentang Aplikasi</h2>
-        <p><strong>NuyMart</strong> merupakan aplikasi Point of Sale (POS) yang dibuat untuk membantu proses pengelolaan toko.</p>
+        <p><strong>FruitsMart</strong> merupakan aplikasi Point of Sale (POS) yang dibuat untuk membantu proses pengelolaan toko.</p>
         <p>Aplikasi ini menyediakan beberapa fitur seperti pengelolaan produk, stok, pengguna, kasir, dan transaksi penjualan.</p>
         <p>Dengan adanya aplikasi ini, proses pencatatan produk dan transaksi diharapkan menjadi lebih mudah, teratur, dan efisien.</p>
     </section>

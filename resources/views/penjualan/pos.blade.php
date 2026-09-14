@@ -590,7 +590,7 @@
 <script>
     if (typeof QRCode !== 'undefined') {
         new QRCode(document.querySelector('#payment-qr'), {
-            text: 'NUYMART-{{ $sale->id }}',
+            text: 'FRUITSMART-{{ $sale->id }}',
             width: 160,
             height: 160,
             correctLevel: QRCode.CorrectLevel.M

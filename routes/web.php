@@ -24,6 +24,10 @@ Route::middleware('auth')->group(function () {
         return view('tentang');
     })->name('tentang');
 
+    Route::get('/perusahaan', function () {
+        return view('perusahaan');
+    })->name('perusahaan');
+
     Route::middleware('role:admin')->prefix('admin')->name('admin.')->group(function () {
         Route::get('/users', [UserController::class, 'index'])->name('users');
         Route::get('/users/create', [UserController::class, 'create'])->name('users.create');

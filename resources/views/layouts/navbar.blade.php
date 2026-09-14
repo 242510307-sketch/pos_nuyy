@@ -2,9 +2,9 @@
     <div class="container-fluid">
 
         {{-- Logo --}}
-        <a class="navbar-brand fw-bold" href="{{ route('dashboard') }}">
+        <a class="navbar-brand fw-bold" href="{{ route('perusahaan') }}">
             <i class="bi bi-shop me-1"></i>
-            POS
+            FruitsMart
         </a>
 
         {{-- Tombol mobile --}}
